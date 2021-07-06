@@ -1,0 +1,18 @@
+/* 主页个人图标 */
+.icon-ins{
+  	/* 修改大小 */
+	font-size: 24px;
+}
+
+.icon-wangyiyunyinyuemusic1193417easyiconnet{
+	font-size: 24px;
+}
+
+.icon-QQ{
+	font-size: 24px;
+}
+
+/* 页面顶部背景图 */
+#page-header.post-bg:before{
+	background-color: rgba(0,0,0,0);
+}
